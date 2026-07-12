@@ -1,4 +1,4 @@
-
+For Opticrop predictor App - https://github.com/Suryatheja25/OptiCrop-Advisor.git
 # 🌱 Smart Agricultural Production Optimization Engine (OptiCrop)
 
 A Machine Learning and Flask-based web application that recommends the most suitable crop based on soil nutrients and environmental conditions to improve agricultural productivity and resource efficiency.
